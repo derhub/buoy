@@ -1,4 +1,4 @@
-import {versions} from '#preload';
+import { versions } from '#preload';
 import React from 'react';
 
 function ElectronVersions() {
